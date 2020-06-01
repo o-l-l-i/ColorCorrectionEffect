@@ -52,3 +52,5 @@ I will not probably convert this to HDRP custom-post processing, as there's nowa
 ## Color Correction Effect UI
 
 ![Color correction effect's UI](colorCorrectionEffect_ui.png)
+
+© 2020 Olli Sorjonen All Rights Reserved
